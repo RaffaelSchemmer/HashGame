@@ -11,7 +11,7 @@
   
 
 </div>
-<img alt="GoStack" src="https://s7.gifyu.com/images/velha5eafe873c6dada13.png" />
+<img alt="GoStack" src="https://s7.gifyu.com/images/velha2e29dafb0029b8ed.png" />
 
 
 ## 🧿 About the Application Purpose
