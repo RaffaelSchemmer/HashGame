@@ -1,0 +1,41 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  BorderIcons = []
+  BorderStyle = bsSingle
+  ClientHeight = 304
+  ClientWidth = 306
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  Position = poDesktopCenter
+  OnCreate = FormCreate
+  PixelsPerInch = 96
+  TextHeight = 13
+  object StringGrid1: TStringGrid
+    Left = 0
+    Top = 0
+    Width = 306
+    Height = 304
+    Align = alClient
+    ColCount = 3
+    DefaultColWidth = 100
+    DefaultRowHeight = 100
+    FixedCols = 0
+    RowCount = 3
+    FixedRows = 0
+    Font.Charset = ANSI_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -69
+    Font.Name = 'Tempus Sans ITC'
+    Font.Style = [fsBold]
+    ParentFont = False
+    ScrollBars = ssNone
+    TabOrder = 0
+    OnClick = StringGrid1Click
+  end
+end
