@@ -20,8 +20,7 @@
 
 ## :rocket: About the Application Architecture and Technologies
 <div align="justify">
-The [Specification of problem!](https://www.github.com/RaffaelSchemmer/A2/blob/master/%5BEspecifica%C3%A7%C3%A3o%20dos%20Trabalhos%5D/%5BXXII%5D%20Jogo%20do%20Genio.pdf)
-(made by the teacher) ask that students developing a hash game delphi application, using a VCL StringGRID component and a set of functions to implement the logic of application. In a hash game, you need some funcitons to find a ideal position to play (that avoid computer to lost the game, if exists this posibility) and to try to gain the game (considering some pattern existing in the game)
+The Specification of problem (made by the teacher) ask that students developing a hash game delphi application, using a VCL StringGRID component and a set of functions to implement the logic of application. In a hash game, you need some funcitons to find a ideal position to play (that avoid computer to lost the game, if exists this posibility) and to try to gain the game (considering some pattern existing in the game)
 </div>
 
 ## ✅ Requirements to Installing the Application
