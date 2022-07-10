@@ -1,4 +1,4 @@
-<img alt="GoStack" src="hhttps://github.com/RaffaelSchemmer/HashGame/blob/master/hash.gif" />
+<img alt="GoStack" src="https://github.com/RaffaelSchemmer/HashGame/blob/master/hash.gif" />
 
 <div align="center">
   <h2>
