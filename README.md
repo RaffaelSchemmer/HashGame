@@ -1,4 +1,4 @@
-<img alt="GoStack" src="https://s7.gifyu.com/images/Design-sem-nome-28c4911290d0a3365.gif" />
+<img alt="GoStack" src="hhttps://github.com/RaffaelSchemmer/HashGame/blob/master/hash.gif" />
 
 <div align="center">
   <h2>
@@ -11,7 +11,6 @@
   
 
 </div>
-<img alt="GoStack" src="https://s7.gifyu.com/images/velha2e29dafb0029b8ed.png" />
 
 
 ## 🧿 About the Application Purpose
